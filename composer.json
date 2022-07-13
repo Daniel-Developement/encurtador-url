@@ -1,0 +1,8 @@
+{
+    "name": "daniel-developement/encurtador-url",
+    "autoload": {
+        "psr-4": {
+            "App\\" : "app/"
+        }
+    }
+}
